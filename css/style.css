@@ -1,11 +1,12 @@
 .box-img{
     width: 70%;
-    height: 600px;
+    height: 500px;
     margin: 50px auto;
     display: flex;
     justify-content: center;
     gap: 10px;
 }
+
 
 .box-img img{
     width: 10%;
